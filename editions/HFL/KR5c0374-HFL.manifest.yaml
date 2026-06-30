@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0374/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5c0374/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上老君說常清靜經頌註
+  date: '2015-08-29 00:58:55.548920'
+  source:
+    repository: kanripo
+    path: KR5c0374
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0374_000-HFL.yaml, hash: 'sha256:1c9b1a4763835f274cd44d2761d60b4bb726173969187aaab48ba72d41a1c66a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0374_000-HFL.markers.yaml, hash: 'sha256:19b841c6b5873885545c63484233bfd64f7208c13ab0b1ec3c60dea5fb0043c3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0374_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 1941
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:799fea4ce123494d9d18141fe4200d46d7c6a2bc92f180df19b3118a3225fba0
