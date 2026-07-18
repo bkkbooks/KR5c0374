@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5c0374_000-HFL.yaml, hash: 'sha256:1c9b1a4763835f274cd44d2761d60b4bb726173969187aaab48ba72d41a1c66a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5c0374_000-HFL.markers.yaml, hash: 'sha256:19b841c6b5873885545c63484233bfd64f7208c13ab0b1ec3c60dea5fb0043c3'}
+  - {seq: 0, role: markers, filename: assets/KR5c0374_000-HFL.markers.yaml, hash: 'sha256:3cc8f00c0db028671a3610de399ca6e5b6802d12da0151d4ea82ee7eca8f3a7d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -36,4 +36,4 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:799fea4ce123494d9d18141fe4200d46d7c6a2bc92f180df19b3118a3225fba0
+hash: sha256:606562d7910e0872e4a9d2ab1fddff6e9dd8b955d7bc215d6be28cf95ab595dc
